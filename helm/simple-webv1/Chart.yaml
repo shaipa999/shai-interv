@@ -1,6 +1,6 @@
 apiVersion: v2
 name: simple-webv1
-description: A Helm chart for Kubernetes web echosc
+description: A Helm chart for Kubernetes web echo ip
 
 # A chart can be either an 'application' or a 'library' chart.
 #
